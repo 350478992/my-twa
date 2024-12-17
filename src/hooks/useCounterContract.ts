@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import Counter from '../contracts/counter';
+import Counter from '../contracts/Counter';
 import { useTonClient } from './useTonClient';
 import { useAsyncInitialize } from './useAsyncInitialize';
 import { useTonConnect } from './useTonConnect';
